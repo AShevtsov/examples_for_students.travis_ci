@@ -3,7 +3,7 @@ package com.students.travis;
 import org.junit.Assert;
 import org.junit.Test;
 
-class MainTest {
+public class MainTest {
 
     @Test
     public void sumPositiveTest() {
